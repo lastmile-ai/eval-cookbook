@@ -1,0 +1,6 @@
+{
+  "server_mode": "PROD",
+  "run_llm_script_path": null,
+  "run_llm_script_timeout_s": 2,
+  "lastmile_api_token": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..xaId1PJL2cjSdx8H.FlmrdHSezmqx2ha5sxn9Q65f86ABLQC-PIA4_tGGoSm3FsXm3qb3QdaHEmZNPIXiTdGcDvgPu0rNie9SjNxeh8MlqtK3EwxnwxVmLVLY8Ih1oseY4P2E8r66WH2H7r3LYBQnO2jOVHkksBUWufra8Uc4WB-GG6-ODoeHFyl-en0P_pfHkoJfDGzpHgU9ea9Rmc4_IJsi7d2ylYfS4Le4EalVt1ecgJ1oXqqGi1-qDminTQyrnYu-XA.VIvcaIVT-IyoBpFvQ3bL2g"
+}
