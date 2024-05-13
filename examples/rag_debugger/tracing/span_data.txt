@@ -1,0 +1,126 @@
+{
+    "name": "child-span",
+    "context": {
+        "trace_id": "0x6aa179f1af949adf13a35499fffbf91d",
+        "span_id": "0x9decb933f7f76629",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x64a48ab5768190f5",
+    "start_time": "2024-04-18T20:33:03.285261Z",
+    "end_time": "2024-04-18T20:33:03.285341Z",
+    "status": {
+        "status_code": "OK"
+    },
+    "attributes": {
+        "openinference.span.kind": "CHAIN",
+        "words_of_wisdom": "Maybe you shouldn't stare directly into the sun after all",
+        "prognosis": "My eyes are super cool and fresh, no problems here!"
+    },
+    "events": [
+        {
+            "name": "QueryReceived",
+            "timestamp": "2024-04-18T20:33:03.285301Z",
+            "attributes": {
+                "rag_query_event": "{\"query\":\"Is it healthy to stare at the sun?\"}",
+                "evaluation_set_id": "1234",
+                "indexing_trace_id": "5678"
+            }
+        }
+    ],
+    "links": [],
+    "resource": {
+        "attributes": {
+            "telemetry.sdk.language": "python",
+            "telemetry.sdk.name": "opentelemetry",
+            "telemetry.sdk.version": "1.23.0",
+            "service.name": "unknown_service"
+        },
+        "schema_url": ""
+    }
+}
+{
+    "name": "root-span",
+    "context": {
+        "trace_id": "0x6aa179f1af949adf13a35499fffbf91d",
+        "span_id": "0x64a48ab5768190f5",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2024-04-18T20:33:03.285204Z",
+    "end_time": "2024-04-18T20:33:03.531201Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {
+        "openinference.span.kind": "AGENT"
+    },
+    "events": [],
+    "links": [],
+    "resource": {
+        "attributes": {
+            "telemetry.sdk.language": "python",
+            "telemetry.sdk.name": "opentelemetry",
+            "telemetry.sdk.version": "1.23.0",
+            "service.name": "unknown_service"
+        },
+        "schema_url": ""
+    }
+}
+{
+    "name": "new-child-span",
+    "context": {
+        "trace_id": "0xbe833ba2f95db7e8877554732524c48f",
+        "span_id": "0x558c3be5af4ffb74",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x6a61683c2bd24899",
+    "start_time": "2024-04-18T20:33:03.531417Z",
+    "end_time": "2024-04-18T20:33:03.531439Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "attributes": {
+            "telemetry.sdk.language": "python",
+            "telemetry.sdk.name": "opentelemetry",
+            "telemetry.sdk.version": "1.23.0",
+            "service.name": "unknown_service"
+        },
+        "schema_url": ""
+    }
+}
+{
+    "name": "new-root-span",
+    "context": {
+        "trace_id": "0xbe833ba2f95db7e8877554732524c48f",
+        "span_id": "0x6a61683c2bd24899",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2024-04-18T20:33:03.531338Z",
+    "end_time": "2024-04-18T20:33:03.644751Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {
+        "new_param": "new_value"
+    },
+    "events": [],
+    "links": [],
+    "resource": {
+        "attributes": {
+            "telemetry.sdk.language": "python",
+            "telemetry.sdk.name": "opentelemetry",
+            "telemetry.sdk.version": "1.23.0",
+            "service.name": "unknown_service"
+        },
+        "schema_url": ""
+    }
+}
