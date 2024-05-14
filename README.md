@@ -1,5 +1,5 @@
 # RAG-Debugger Cookbook
-The RAG-Debugger Cookbook features examples and tutorials contributed by our team, community, and partners. If you have cool examples showcasing how you've used RAG-Debugger, feel free to share them by submitting a PR to this repo.
+The RAG-Debugger Cookbook features examples and tutorials contributed by our team, community, and partners. If you have cool examples showcasing RAG-Debugger, feel free to share them by submitting a PR to this repo.
 
 
 ## Table of Contents
