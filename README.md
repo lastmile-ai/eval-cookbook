@@ -3,7 +3,7 @@ The RAG-Debugger Cookbook features examples and tutorials contributed by our tea
 
 
 ## Table of Contents
-| Notebook | Description |
+|  <div style="width:180px">Notebook</div> | Description |
 |---|---|
 [Getting Started](https://github.com/lastmile-ai/eval-cookbook/blob/main/quickstart/getting_started.ipynb) | Start here if you are new to using the RAG-Debugger
 [Evaluation Metrics](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/evaluation_metrics.ipynb) | How to use LastMile evaluation metrics (RAG-specific and generic evaluators)
