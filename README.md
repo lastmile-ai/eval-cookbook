@@ -10,7 +10,7 @@ The RAG-Debugger Cookbook features examples and tutorials contributed by our tea
 [Tracing Setup](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/Tracing%20Setup.ipynb) | How to setup tracing and logging for your RAG application
 [TestSet Creation](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/Test%20Set%20Creation%20Setup.ipynb) | How to setup and manage test sets (aka datasets) to evaluate your RAG system
 [Distributed Tracing](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/Distributed%20Tracing.ipynb) | How to setup distributed tracing which allows you to track and analyze the flow of requests across multiple services or components in a distributed system. 
-[Online Feedback](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/Online%20Feedback%20Setup.ipynb) | How to setup logging online feedback (ex. thumbs up/down for users) to help debug your RAG system
+[Logging User Feedback](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/User%20Feedback.ipynb) | How to use user feedback (ex. thumbs up/down) to improve your RAG system
 
 ## Feedback or Questions
 
