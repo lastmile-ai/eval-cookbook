@@ -6,13 +6,13 @@ Welcome to the RAG Debugger Cookbook! This repository features a collection of e
 
 Start with our [Getting Started Notebook](https://github.com/lastmile-ai/eval-cookbook/blob/main/getting_started/Getting_Started.ipynb). 
 
-This notebook will guide you through the basic setup and introduce you to the key concepts and features of RAG Debugger.
+This notebook will guide you through the basic setup and introduce you to key concepts. 
 
 ## Repository Structure
 
 The repository is organized into two main folders:
 
-1. **`tutorials`**: This folder contains step-by-step guides that cover key concepts and features of RAG Debugger. These tutorials are designed to help you understand how to effectively use the tool and its various functionalities. 
+1. **`tutorials`**: This folder contains step-by-step guides that cover key concepts and features of RAG Debugger. 
 
 2. **`use_cases`**: This folder contains real-world applications and examples showcasing how RAG Debugger can be used to solve specific problems or address particular scenarios. These use cases demonstrate the practical applications of the tool in different domains and industries.
 
