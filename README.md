@@ -6,7 +6,7 @@ Welcome to the RAG Debugger Cookbook! This repository features a collection of e
 
 Start with our [Getting Started Notebook](https://github.com/lastmile-ai/eval-cookbook/blob/main/getting_started/Getting_Started.ipynb). 
 
-This notebook will guide you through the basic setup and introduce you to the key concepts and features of RAG Debugger.
+This notebook will guide you through the basic setup and introduce you to key concepts. 
 
 ## Repository Structure
 
