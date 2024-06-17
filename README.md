@@ -8,14 +8,16 @@ Start with our [Getting Started Notebook](https://github.com/lastmile-ai/eval-co
 
 This notebook will guide you through the basic setup and introduce you to key concepts. 
 
-## Repository Structure
+## Tutorials
 
-The repository is organized into two main folders:
+The **`tutorials`** folder contains all the step-by-step guides that cover key concepts and features of RAG Debugger.
 
-1. **`tutorials`**: This folder contains step-by-step guides that cover key concepts and features of RAG Debugger. 
-
-2. **`use_cases`**: This folder contains real-world applications and examples showcasing how RAG Debugger can be used to solve specific problems or address particular scenarios. These use cases demonstrate the practical applications of the tool in different domains and industries.
-
+* [Getting Started](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/getting_started.ipynb)
+* [Improve RAG System with User Feedback](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/user_feedback.ipynb)
+* [Experiment with the Parameters of your RAG System](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/parameter_experimentation.ipynb)
+* [Evaluation Metrics](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/evaluation_metrics.ipynb)
+* [Distributed Tracing](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/distributed_tracing.ipynb)
+* [Demo: Evaluate LLM-generated PR Titles](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/evaluate_llm_generated_pr_titles.ipynb)
 
 ## Documentation
 
