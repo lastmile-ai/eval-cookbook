@@ -13,8 +13,8 @@ This notebook will guide you through the basic setup and introduce you to key co
 The **`tutorials`** folder contains all the step-by-step guides that cover key concepts and features of RAG Workbench.
 
 - [Getting Started](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/getting_started.ipynb)
-- [Improve RAG System with User Feedback](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/user_feedback.ipynb)
-- [Experiment with the Parameters of your RAG System](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/parameter_experimentation.ipynb)
+- [Integrate Real-Time User Feedback](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/user_feedback.ipynb)
+- [Hyperparameter Optimization](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/parameter_experimentation.ipynb)
 - [Evaluation Metrics](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/evaluation_metrics.ipynb)
 - [Distributed Tracing](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/distributed_tracing.ipynb)
 - [Demo: Evaluate LLM-generated PR Titles](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/evaluate_llm_generated_pr_titles.ipynb)
