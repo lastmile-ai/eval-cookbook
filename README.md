@@ -1,6 +1,6 @@
-# RAG Debugger Cookbook
+# RAG Workbench Cookbook
 
-Welcome to the RAG Debugger Cookbook! This repository features a collection of examples and tutorials contributed by our team, community, and partners to help you learn and make the most of the RAG Debugger tool. If you have interesting examples or tutorials that showcase the capabilities of RAG Debugger, feel free to share them by submitting a pull request to this repository.
+Welcome to the RAG Workbench Cookbook! This repository features a collection of examples and tutorials contributed by our team, community, and partners to help you learn and make the most of the RAG Workbench tool. If you have interesting examples or tutorials that showcase the capabilities of RAG Workbench, feel free to share them by submitting a pull request to this repository.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ This notebook will guide you through the basic setup and introduce you to key co
 
 ## Tutorials
 
-The **`tutorials`** folder contains all the step-by-step guides that cover key concepts and features of RAG Debugger.
+The **`tutorials`** folder contains all the step-by-step guides that cover key concepts and features of RAG Workbench.
 
 - [Getting Started](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/getting_started.ipynb)
 - [Improve RAG System with User Feedback](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/user_feedback.ipynb)
@@ -35,6 +35,6 @@ Please refer to our [official documentation](https://rag.lastmileai.dev/docs/bas
 
 ## Feedback and Questions
 
-We value your feedback and are here to help you with any questions or issues you may encounter while using RAG Debugger or following the tutorials in this cookbook. If you have any suggestions, questions, or need assistance, please don't hesitate to reach out to us on [Discord](https://discord.com/invite/xBhNKTetGx).
+We value your feedback and are here to help you with any questions or issues you may encounter while using RAG Workbench or following the tutorials in this cookbook. If you have any suggestions, questions, or need assistance, please don't hesitate to reach out to us on [Discord](https://discord.com/invite/xBhNKTetGx).
 
 Happy debugging!
