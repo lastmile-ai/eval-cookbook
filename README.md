@@ -1,16 +1,13 @@
 # RAG Workbench Cookbook
-
-Welcome to the RAG Workbench Cookbook! This repository features a collection of examples and tutorials contributed by our team, community, and partners to help you learn and make the most of the RAG Workbench tool. If you have interesting examples or tutorials that showcase the capabilities of RAG Workbench, feel free to share them by submitting a pull request to this repository.
+Welcome to the RAG Workbench Cookbook! This repository contains examples and tutorials from our team, partners, and community to help you learn and make the most of RAG Workbench.  Please feel free to submit a pull request if you have content you would like to share using RAG Workbench. 
 
 ## Getting Started
 
-Start with our [Getting Started Notebook](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/getting_started.ipynb).
-
-This notebook will guide you through the basic setup and introduce you to key concepts.
+Start with the [RAG Workbench: Getting Started Tutorial](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/getting_started.ipynb). This notebook will guide you through the basic setup and introduce you to key concepts.
 
 ## Tutorials
 
-The **`tutorials`** folder contains all the step-by-step guides that cover key concepts and features of RAG Workbench.
+Check out our collection of step-by-step guides that cover essential concepts and features of RAG Workbench:
 
 - [Getting Started](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/getting_started.ipynb)
 - [Integrate Real-Time User Feedback](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/user_feedback.ipynb)
@@ -19,15 +16,14 @@ The **`tutorials`** folder contains all the step-by-step guides that cover key c
 - [Distributed Tracing](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/distributed_tracing.ipynb)
 - [Demo: Evaluate LLM-generated PR Titles](https://github.com/lastmile-ai/eval-cookbook/blob/main/tutorials/evaluate_llm_generated_pr_titles.ipynb)
 
-## Tracing Auto Instrumentors
+## Framework-Specific Tutorials
 
-The **`instrumentors`** folder contains the auto-instrumentors for various frameworks. These instrumentors can be used to automatically trace the execution of your RAG system.
-| Framework/Library | Cookbook Link |
-| ----------------- | ------------- |
-| OpenAI | [openai_instrumentation.ipynb](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/openai_instrumentation.ipynb) <br /> [openai_streaming.ipynb](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/openai_streaming.ipynb) |
-| IBM | [ibm.ipynb](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/ibm.ipynb) <br />[ibm_granite_tutorial.ipynb](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/ibm_granite_tutorial.ipynb) |
-| LangChain | [langchain.ipynb](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/langchain.ipynb) |
-| LLamaIndex | [llama_index.ipynb](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/llama_index.ipynb) <br />[llama_index_function_calls.ipynb](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/llama_index_function_calls.ipynb) |
+Explore our easy-to-follow guides for popular frameworks like OpenAI, LlamaIndex, LangChain, and more. These examples come with pre-configured auto-instrumentation, eliminating the need for manual tracing of your RAG system:
+
+- [`openai/`](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/ibm.ipynb)
+- [`llamaindex/`](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/ibm.ipynb)
+- [`langchain/`](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/ibm.ipynb)
+- [`ibm/`](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/ibm.ipynb)
 
 ## Documentation
 
