@@ -20,10 +20,10 @@ Check out our collection of step-by-step guides that cover essential concepts an
 
 Explore our easy-to-follow guides for popular frameworks like OpenAI, LlamaIndex, LangChain, and more. These examples come with pre-configured auto-instrumentation, eliminating the need for manual tracing of your RAG system:
 
-- [`openai/`](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/ibm.ipynb)
-- [`llamaindex/`](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/ibm.ipynb)
-- [`langchain/`](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/ibm.ipynb)
-- [`ibm/`](https://github.com/lastmile-ai/eval-cookbook/blob/main/auto-instrumentors/ibm.ipynb)
+- [`openai/`](https://github.com/lastmile-ai/eval-cookbook/tree/main/tutorials/openai)
+- [`llamaindex/`](https://github.com/lastmile-ai/eval-cookbook/tree/main/tutorials/llamaindex)
+- [`langchain/`](https://github.com/lastmile-ai/eval-cookbook/tree/main/tutorials/langchain)
+- [`ibm/`](https://github.com/lastmile-ai/eval-cookbook/tree/main/tutorials/ibm)
 
 ## Documentation
 
