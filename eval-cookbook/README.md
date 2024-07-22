@@ -1,6 +1,5 @@
 # RAG Workbench Cookbook
-
-Welcome to the RAG Workbench Cookbook! This repository contains examples and tutorials from our team, partners, and community to help you learn and make the most of RAG Workbench. Please feel free to submit a pull request if you have content you would like to share using RAG Workbench.
+Welcome to the RAG Workbench Cookbook! This repository contains examples and tutorials from our team, partners, and community to help you learn and make the most of RAG Workbench.  Please feel free to submit a pull request if you have content you would like to share using RAG Workbench. 
 
 ## Getting Started
 
@@ -19,7 +18,7 @@ Check out our collection of step-by-step guides that cover essential concepts an
 
 ## Framework-Specific Tutorials
 
-Explore our easy-to-follow guides for popular frameworks like OpenAI, LlamaIndex, LangChain, and more! These examples come with pre-configured auto-instrumentation, eliminating the need for manual tracing in your RAG system:
+Explore our easy-to-follow guides for popular frameworks like OpenAI, LlamaIndex, LangChain, and more. These examples come with pre-configured auto-instrumentation, eliminating the need for manual tracing of your RAG system:
 
 - [`openai/`](https://github.com/lastmile-ai/eval-cookbook/tree/main/tutorials/openai)
 - [`llamaindex/`](https://github.com/lastmile-ai/eval-cookbook/tree/main/tutorials/llamaindex)
